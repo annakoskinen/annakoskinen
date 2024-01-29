@@ -1,5 +1,5 @@
 - Hi! I'm Anna Koskinen.
-- I'm studying biomedical engineering at TUNI. I started in 2021.
-- I have chosen programming as my minor and it is currently my main interest.
-- I know Python, C++, JavaScript and I'm currently learning Java.
-- Here I have projects I have done in my programming courses. Python projects are from spring 2022 and other projects are added once completed.
+- I'm studying Health Technology and Informatics at Tampere University. I started in 2021 and will graduate with a bachelor's degree in the spring of 2024.
+- I have software engineering as my minor and it is currently my main interest.
+- I know Python, C++, JavaScript, SQL, and I'm currently learning Java.
+- Here I have projects I have done in my programming courses. Python projects are from the spring of 2022 and other projects are added once completed.
