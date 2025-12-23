@@ -1,5 +1,5 @@
 - Hi! I'm Anna Koskinen.
-- I'm studying Information Technology at Tampere University. I graduated with a bachelor's degree in the spring of 2024 and now I'm in my first year of master's studies.
+- I'm studying Information Technology at Tampere University. I graduated with a bachelor's degree in the spring of 2024 and now I'm in my second year of master's studies.
 - I have Software Engineering as my major and it is currently my main interest.
-- I know Python, C++, JavaScript, SQL, and Java.
+- Programming langueages I know include Python, C++, JavaScript, SQL, and Java.
 - Here I have some projects I have done in my programming courses.
